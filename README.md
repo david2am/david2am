@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David
 - 👀 I’m a senior frontend web developer (full-stack, almost)
-- 📈 Currently working on [Materialise](https://www.materialise.com)
+- 📈 Currently working on [https://www.materialise.com](https://blankfactor.com/)
 - 🌱 I’m currently learning DDD
 - 💞️ I love to share what I've learned through [medium](https://medium.com/@david2am) 
 - 📫 Reach me on [Twitter](https://twitter.com/DavidDeVargas)
