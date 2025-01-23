@@ -1,9 +1,8 @@
-- 👋 Hi, I’m David
-- 👀 I’m a senior frontend web developer (full-stack, almost)
-- 📈 Currently working on [https://www.materialise.com](https://blankfactor.com/)
-- 🌱 I’m currently learning DDD
-- 💞️ I love to share what I've learned through [medium](https://medium.com/@david2am) 
+- 👋 Hi, I’m David, a senior web frontend (almost fullstack)
+- 🌱 I’m learning Nextjs partial pre-rendering, and functional programing with Ocaml
+- 💞️ I love to write articles on [medium](https://medium.com/@david2am) 
 - 📫 Reach me on [Twitter](https://twitter.com/DavidDeVargas)
+- 📈 Working on [Xebia Functional](https://xebia.com/)
 
 <!---
 david2am/david2am is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
