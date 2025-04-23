@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David, a senior web frontend (almost fullstack)
 - 🌱 I’m learning Nextjs partial pre-rendering, and functional programing with Ocaml
-- 💞️ I love to write articles on [medium](https://medium.com/@david2am) 
+- 💞️ I love to write articles on [dev.to](https://dev.to/@david2am) 
 - 📫 Reach me on [Twitter](https://twitter.com/DavidDeVargas)
 - 📈 Working on [Xebia Functional](https://xebia.com/)
 
