@@ -1,13 +1,17 @@
-match David with  
-- 👋 -> **Hello!** I'm a senior web frontend dev, 💪 working to grow as a full-stack web dev.  
-- 🐪 -> **Passionate about** functional programming, especially with OCaml.  
-- 📝 -> **Enjoy writing** articles on [dev.to](https://dev.to/@david2am)  
-- 📫 -> **Connect with me** on [BlueSky](https://bsky.app/profile/david2am.bsky.social)  
-- 👨‍💻 -> **Currently working** at [Xebia Functional](https://xebia.com/)
+
+
+_match_ **David** _with_ 🤓 - **Frontend** web dev  
+&nbsp;&nbsp;&nbsp;| 🐪 - **Into** OCaml and FP  
+&nbsp;&nbsp;&nbsp;| ✍️ - **Read him** on [Dev.to](https://dev.to/@david2am)  
+&nbsp;&nbsp;&nbsp;| 🌐 - **Find him** on [LinkedIn](https://linkedin.com/in/dddvargas)  
+&nbsp;&nbsp;&nbsp;| ⚙️ - **Working** at [Xebia](https://xebia.com)  
+&nbsp;&nbsp;&nbsp;| _  - ✝️, 🇨🇴
 
 ```ocaml
-type David = 🤓 of frontend web dev
-  | Into of (OCaml * 🐪)
-  | Read of (dev.to/david2am)
-  | Default of (✝️ * 🇨🇴)
+type David = Senior of (🤓 * Frontend * "Web Dev")
+  | Into    of (🐪 * OCaml    * "Functional Programming")
+  | Read    of (✍️ * Devto    * "https://dev.to/@david2am")
+  | Find    of (🌐 * LinkedIn * "https://linkedin.com/in/dddvargas")
+  | Work    of (⚙️ * Xebia    * "https://xebia.com")
+  | Default of (🥕 * ✝️ * 🇨🇴)
 ```
