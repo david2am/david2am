@@ -4,3 +4,10 @@ match David with
 - 📝 -> **Enjoy writing** articles on [dev.to](https://dev.to/@david2am)  
 - 📫 -> **Connect with me** on [BlueSky](https://bsky.app/profile/david2am.bsky.social)  
 - 👨‍💻 -> **Currently working** at [Xebia Functional](https://xebia.com/)
+
+```ocaml
+type David = 🤓 of frontend web dev
+  | Into of (OCaml * 🐪)
+  | Read of (dev.to/david2am)
+  | Default of (✝️ * 🇨🇴)
+```
