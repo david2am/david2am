@@ -22,6 +22,7 @@ I've worked across **fintech, education, and entertainment**, with experience sp
 **Data:** MySQL, DynamoDB.  
 **Testing:** Jest, Playwright, Vitest, Testing Library.  
 **AI:** Claude Code, Amazon Q, AI-assisted development, Agentic AI.  
+**Functional Programming:** OCaml.  
 
 I enjoy solving problems that require **thoughtful system design, technical judgment, and understanding the bigger picture**.
 
